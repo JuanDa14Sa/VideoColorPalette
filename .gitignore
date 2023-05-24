@@ -161,3 +161,7 @@ cython_debug/
 
 # output_frames
 output_frames/
+images.jpg
+output.png
+test.png
+videoplayback.mp4
